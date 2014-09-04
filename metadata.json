@@ -51,6 +51,10 @@
     {
       "name": "puppetlabs/tftp",
       "version_requirement": ">= 0.2.1"
+    },
+    {
+      "name": "puppetlabs/postgresql",
+      "version_requirement": ">= 3.4.2"
     }
   ]
 }
